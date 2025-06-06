@@ -4,8 +4,11 @@ data
 old
 logs
 .ipynb_checkpoints
-*.h5
-!models/*.h5
+.h5
+!models/.h5
 env
+venv_novo
 *.avi
 *.mp4
+temp
+processed_videos
